@@ -7,6 +7,7 @@ import RegisterForm from './components/RegisterForm';
 import MealsProvider from './components/DataProvider';
 import Multiple from './components/Form';
 /*
+// 
 function App() {
   return (
     <div className="App">
